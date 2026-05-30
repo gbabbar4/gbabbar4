@@ -1,5 +1,5 @@
 <h1 align="center">
-  𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 <Garvit/>! 
+  𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 <b>Garvit</b> ! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -94,16 +94,16 @@
 ---
 
 ### 📚 Currently Learning
-
+```
 current_focus = {
     "architecture" : "Transformer — Attention, Positional Encodings, Multi-head",
-    "course"       : "IIT Madras — Deep Learning (Prof. Balaji Srinivasan)",
+    "course"       : "IIT Madras — Diploma in Data Science & its Applications in the Real World",
     "building"     : "Mini GPT from scratch (~10K params)",
     "next_target"  : "Credit Risk Modeling + PySpark pipelines"
 }
 
 life_motto = "Data speaks louder than opinions 📊"
-
+```
 ---
 
 <p align="center">
