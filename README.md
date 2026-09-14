@@ -70,7 +70,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🛒 Engage2Value: Clicks to Conversions](https://github.com/YOUR_USERNAME/engage2value) | Predicted customer purchase value from multi-session digital behavior — browser types, traffic sources, device & geo signals. Built for a Kaggle-style competition. | Python, XGBoost, Pandas, Scikit-learn |
+| [🛒 Engage2Value: Clicks to Conversions](https://github.com/gbabbar4/engage2value) | Predicted customer purchase value from multi-session digital behavior — browser types, traffic sources, device & geo signals. Built for a Kaggle-style competition. | Python, XGBoost, Pandas, Scikit-learn |
 | 🤖 Mini GPT *(coming soon)* | GPT-style Transformer from scratch (~10K params) — IIT Madras Deep Learning course project | PyTorch, Transformers |
 | 💳 Credit Risk Model *(coming soon)* | Credit default prediction using XGBoost + Logistic Regression on financial features | Python, XGBoost, SQL |
 | 🔍 Fraud Detection *(coming soon)* | Transaction fraud detection pipeline with A/B testing & hypothesis testing | SQL, Python, Pandas |
@@ -107,5 +107,5 @@ life_motto = "Data speaks louder than opinions 📊"
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=gbabbar4&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
