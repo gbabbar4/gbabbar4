@@ -70,6 +70,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| 🤖 [Machine Learning RAG Assistant](https://github.com/gbabbar4/rag-with-langchain) | Built a Retrieval-Augmented Generation system over Andrew Ng's Machine Learning lectures, using semantic search to retrieve relevant context and Gemini to generate grounded answers. | Python, LangChain, FAISS, Hugging Face, Gemini |
 | [🛒 Engage2Value: Clicks to Conversions](https://github.com/gbabbar4/engage2value) | Predicted customer purchase value from multi-session digital behavior — browser types, traffic sources, device & geo signals. Built for a Kaggle-style competition. | Python, XGBoost, Pandas, Scikit-learn |
 | 🤖 Mini GPT *(coming soon)* | GPT-style Transformer from scratch (~10K params) — IIT Madras Deep Learning course project | PyTorch, Transformers |
 | 💳 Credit Risk Model *(coming soon)* | Credit default prediction using XGBoost + Logistic Regression on financial features | Python, XGBoost, SQL |
